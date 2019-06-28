@@ -26,6 +26,11 @@ for number in 4..<8{
 
 print(myNum)
 ```
+the code prints 23. ( know this becuase I checked in xcode, my original thought was that it would print:
+        12
+        17
+        23
+        30
 
 ***
 ## Question 2
@@ -59,7 +64,7 @@ for l in 1...100 where _ < 101 {
     print(l)
 }
 ```
-
+B  will print all number inclusive
 ***
 ## Question 3
 
@@ -72,7 +77,7 @@ for _ in 1...10{
     }
 }
 ```
-
+"NESTING" will be printed 100x
 ***
 ## Question 4
 
@@ -117,5 +122,6 @@ while t == t{
     t += 1
 }
 ```
-
+A (infinite)
+D(infinite)
 ***
